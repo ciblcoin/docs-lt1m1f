@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-qzqxuw.salamduit.sbs/sitemap.xml
